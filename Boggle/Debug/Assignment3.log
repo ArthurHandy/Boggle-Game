@@ -1,0 +1,3 @@
+﻿  BoggleSolver.cpp
+C:\Users\Arthu\source\repos\Boggle\Assignment3\BoggleSolver.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+  Assignment3.vcxproj -> C:\Users\Arthu\source\repos\Boggle\Debug\Assignment3.exe

@@ -1,0 +1,636 @@
+Word: wo
+Number of Words: 1
+  d    k   'w'  'o' 
+  m    x    k    a  
+  e    i    d    j  
+  q    p    e    o  
+
+  0    0    1    2  
+  0    0    0    0  
+  0    0    0    0  
+  0    0    0    0  
+--------
+Word: woad
+Number of Words: 2
+  d    k   'w'  'o' 
+  m    x    k   'a' 
+  e    i   'd'   j  
+  q    p    e    o  
+
+  0    0    1    2  
+  0    0    0    3  
+  0    0    4    0  
+  0    0    0    0  
+--------
+Word: wok
+Number of Words: 3
+  d    k   'w'  'o' 
+  m    x   'k'   a  
+  e    i    d    j  
+  q    p    e    o  
+
+  0    0    1    2  
+  0    0    3    0  
+  0    0    0    0  
+  0    0    0    0  
+--------
+Word: wad
+Number of Words: 4
+  d    k   'w'   o  
+  m    x    k   'a' 
+  e    i   'd'   j  
+  q    p    e    o  
+
+  0    0    1    0  
+  0    0    0    2  
+  0    0    3    0  
+  0    0    0    0  
+--------
+Word: wade
+Number of Words: 5
+  d    k   'w'   o  
+  m    x    k   'a' 
+  e    i   'd'   j  
+  q    p   'e'   o  
+
+  0    0    1    0  
+  0    0    0    2  
+  0    0    3    0  
+  0    0    4    0  
+--------
+Word: wadi
+Number of Words: 6
+  d    k   'w'   o  
+  m    x    k   'a' 
+  e   'i'  'd'   j  
+  q    p    e    o  
+
+  0    0    1    0  
+  0    0    0    2  
+  0    4    3    0  
+  0    0    0    0  
+--------
+Word: oak
+Number of Words: 7
+  d    k    w   'o' 
+  m    x   'k'  'a' 
+  e    i    d    j  
+  q    p    e    o  
+
+  0    0    0    1  
+  0    0    3    2  
+  0    0    0    0  
+  0    0    0    0  
+--------
+Word: ow
+Number of Words: 8
+  d    k   'w'  'o' 
+  m    x    k    a  
+  e    i    d    j  
+  q    p    e    o  
+
+  0    0    2    1  
+  0    0    0    0  
+  0    0    0    0  
+  0    0    0    0  
+--------
+Word: oka
+Number of Words: 9
+  d    k    w   'o' 
+  m    x   'k'  'a' 
+  e    i    d    j  
+  q    p    e    o  
+
+  0    0    0    1  
+  0    0    2    3  
+  0    0    0    0  
+  0    0    0    0  
+--------
+Word: me
+Number of Words: 10
+  d    k    w    o  
+ 'm'   x    k    a  
+ 'e'   i    d    j  
+  q    p    e    o  
+
+  0    0    0    0  
+  1    0    0    0  
+  2    0    0    0  
+  0    0    0    0  
+--------
+Word: mi
+Number of Words: 11
+  d    k    w    o  
+ 'm'   x    k    a  
+  e   'i'   d    j  
+  q    p    e    o  
+
+  0    0    0    0  
+  1    0    0    0  
+  0    2    0    0  
+  0    0    0    0  
+--------
+Word: mix
+Number of Words: 12
+  d    k    w    o  
+ 'm'  'x'   k    a  
+  e   'i'   d    j  
+  q    p    e    o  
+
+  0    0    0    0  
+  1    3    0    0  
+  0    2    0    0  
+  0    0    0    0  
+--------
+Word: mid
+Number of Words: 13
+  d    k    w    o  
+ 'm'   x    k    a  
+  e   'i'  'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  1    0    0    0  
+  0    2    3    0  
+  0    0    0    0  
+--------
+Word: mikado
+Number of Words: 14
+  d    k    w    o  
+ 'm'   x   'k'  'a' 
+  e   'i'  'd'   j  
+  q    p    e   'o' 
+
+  0    0    0    0  
+  1    0    3    4  
+  0    2    5    0  
+  0    0    0    6  
+--------
+Word: xi
+Number of Words: 15
+  d    k    w    o  
+  m   'x'   k    a  
+  e   'i'   d    j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    1    0    0  
+  0    2    0    0  
+  0    0    0    0  
+--------
+Word: ka
+Number of Words: 16
+  d    k    w    o  
+  m    x   'k'  'a' 
+  e    i    d    j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    0    1    2  
+  0    0    0    0  
+  0    0    0    0  
+--------
+Word: kadi
+Number of Words: 17
+  d    k    w    o  
+  m    x   'k'  'a' 
+  e   'i'  'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    0    1    2  
+  0    4    3    0  
+  0    0    0    0  
+--------
+Word: kip
+Number of Words: 18
+  d    k    w    o  
+  m    x   'k'   a  
+  e   'i'   d    j  
+  q   'p'   e    o  
+
+  0    0    0    0  
+  0    0    1    0  
+  0    2    0    0  
+  0    3    0    0  
+--------
+Word: kid
+Number of Words: 19
+  d    k    w    o  
+  m    x   'k'   a  
+  e   'i'  'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    0    1    0  
+  0    2    3    0  
+  0    0    0    0  
+--------
+Word: koa
+Number of Words: 20
+  d    k    w   'o' 
+  m    x   'k'  'a' 
+  e    i    d    j  
+  q    p    e    o  
+
+  0    0    0    2  
+  0    0    1    3  
+  0    0    0    0  
+  0    0    0    0  
+--------
+Word: aw
+Number of Words: 21
+  d    k   'w'   o  
+  m    x    k   'a' 
+  e    i    d    j  
+  q    p    e    o  
+
+  0    0    2    0  
+  0    0    0    1  
+  0    0    0    0  
+  0    0    0    0  
+--------
+Word: ad
+Number of Words: 22
+  d    k    w    o  
+  m    x    k   'a' 
+  e    i   'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    0    0    1  
+  0    0    2    0  
+  0    0    0    0  
+--------
+Word: ado
+Number of Words: 23
+  d    k    w    o  
+  m    x    k   'a' 
+  e    i   'd'   j  
+  q    p    e   'o' 
+
+  0    0    0    0  
+  0    0    0    1  
+  0    0    2    0  
+  0    0    0    3  
+--------
+Word: em
+Number of Words: 24
+  d    k    w    o  
+ 'm'   x    k    a  
+ 'e'   i    d    j  
+  q    p    e    o  
+
+  0    0    0    0  
+  2    0    0    0  
+  1    0    0    0  
+  0    0    0    0  
+--------
+Word: eide
+Number of Words: 25
+  d    k    w    o  
+  m    x    k    a  
+ 'e'  'i'  'd'   j  
+  q    p   'e'   o  
+
+  0    0    0    0  
+  0    0    0    0  
+  1    2    3    0  
+  0    0    4    0  
+--------
+Word: ex
+Number of Words: 26
+  d    k    w    o  
+  m   'x'   k    a  
+ 'e'   i    d    j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    2    0    0  
+  1    0    0    0  
+  0    0    0    0  
+--------
+Word: id
+Number of Words: 27
+  d    k    w    o  
+  m    x    k    a  
+  e   'i'  'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    0    0    0  
+  0    1    2    0  
+  0    0    0    0  
+--------
+Word: de
+Number of Words: 28
+  d    k    w    o  
+  m    x    k    a  
+  e    i   'd'   j  
+  q    p   'e'   o  
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    1    0  
+  0    0    2    0  
+--------
+Word: dei
+Number of Words: 29
+  d    k    w    o  
+  m    x    k    a  
+  e   'i'  'd'   j  
+  q    p   'e'   o  
+
+  0    0    0    0  
+  0    0    0    0  
+  0    3    1    0  
+  0    0    2    0  
+--------
+Word: dip
+Number of Words: 30
+  d    k    w    o  
+  m    x    k    a  
+  e   'i'  'd'   j  
+  q   'p'   e    o  
+
+  0    0    0    0  
+  0    0    0    0  
+  0    2    1    0  
+  0    3    0    0  
+--------
+Word: die
+Number of Words: 31
+  d    k    w    o  
+  m    x    k    a  
+ 'e'  'i'  'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    0    0    0  
+  3    2    1    0  
+  0    0    0    0  
+--------
+Word: dim
+Number of Words: 32
+  d    k    w    o  
+ 'm'   x    k    a  
+  e   'i'  'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  3    0    0    0  
+  0    2    1    0  
+  0    0    0    0  
+--------
+Word: dime
+Number of Words: 33
+  d    k    w    o  
+ 'm'   x    k    a  
+ 'e'  'i'  'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  3    0    0    0  
+  4    2    1    0  
+  0    0    0    0  
+--------
+Word: do
+Number of Words: 34
+  d    k    w    o  
+  m    x    k    a  
+  e    i   'd'   j  
+  q    p    e   'o' 
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    1    0  
+  0    0    0    2  
+--------
+Word: doe
+Number of Words: 35
+  d    k    w    o  
+  m    x    k    a  
+  e    i   'd'   j  
+  q    p   'e'  'o' 
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    1    0  
+  0    0    3    2  
+--------
+Word: da
+Number of Words: 36
+  d    k    w    o  
+  m    x    k   'a' 
+  e    i   'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    0    0    2  
+  0    0    1    0  
+  0    0    0    0  
+--------
+Word: dak
+Number of Words: 37
+  d    k    w    o  
+  m    x   'k'  'a' 
+  e    i   'd'   j  
+  q    p    e    o  
+
+  0    0    0    0  
+  0    0    3    2  
+  0    0    1    0  
+  0    0    0    0  
+--------
+Word: daw
+Number of Words: 38
+  d    k   'w'   o  
+  m    x    k   'a' 
+  e    i   'd'   j  
+  q    p    e    o  
+
+  0    0    3    0  
+  0    0    0    2  
+  0    0    1    0  
+  0    0    0    0  
+--------
+Word: dawk
+Number of Words: 39
+  d    k   'w'   o  
+  m    x   'k'  'a' 
+  e    i   'd'   j  
+  q    p    e    o  
+
+  0    0    3    0  
+  0    0    4    2  
+  0    0    1    0  
+  0    0    0    0  
+--------
+Word: jaw
+Number of Words: 40
+  d    k   'w'   o  
+  m    x    k   'a' 
+  e    i    d   'j' 
+  q    p    e    o  
+
+  0    0    3    0  
+  0    0    0    2  
+  0    0    0    1  
+  0    0    0    0  
+--------
+Word: jade
+Number of Words: 41
+  d    k    w    o  
+  m    x    k   'a' 
+  e    i   'd'  'j' 
+  q    p   'e'   o  
+
+  0    0    0    0  
+  0    0    0    2  
+  0    0    3    1  
+  0    0    4    0  
+--------
+Word: jo
+Number of Words: 42
+  d    k    w    o  
+  m    x    k    a  
+  e    i    d   'j' 
+  q    p    e   'o' 
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    0    1  
+  0    0    0    2  
+--------
+Word: joe
+Number of Words: 43
+  d    k    w    o  
+  m    x    k    a  
+  e    i    d   'j' 
+  q    p   'e'  'o' 
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    0    1  
+  0    0    3    2  
+--------
+Word: pi
+Number of Words: 44
+  d    k    w    o  
+  m    x    k    a  
+  e   'i'   d    j  
+  q   'p'   e    o  
+
+  0    0    0    0  
+  0    0    0    0  
+  0    2    0    0  
+  0    1    0    0  
+--------
+Word: pix
+Number of Words: 45
+  d    k    w    o  
+  m   'x'   k    a  
+  e   'i'   d    j  
+  q   'p'   e    o  
+
+  0    0    0    0  
+  0    3    0    0  
+  0    2    0    0  
+  0    1    0    0  
+--------
+Word: pie
+Number of Words: 46
+  d    k    w    o  
+  m    x    k    a  
+ 'e'  'i'   d    j  
+  q   'p'   e    o  
+
+  0    0    0    0  
+  0    0    0    0  
+  3    2    0    0  
+  0    1    0    0  
+--------
+Word: pied
+Number of Words: 47
+  d    k    w    o  
+  m    x    k    a  
+  e   'i'  'd'   j  
+  q   'p'  'e'   o  
+
+  0    0    0    0  
+  0    0    0    0  
+  0    2    4    0  
+  0    1    3    0  
+--------
+Word: pika
+Number of Words: 48
+  d    k    w    o  
+  m    x   'k'  'a' 
+  e   'i'   d    j  
+  q   'p'   e    o  
+
+  0    0    0    0  
+  0    0    3    4  
+  0    2    0    0  
+  0    1    0    0  
+--------
+Word: pe
+Number of Words: 49
+  d    k    w    o  
+  m    x    k    a  
+  e    i    d    j  
+  q   'p'  'e'   o  
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    0    0  
+  0    1    2    0  
+--------
+Word: ped
+Number of Words: 50
+  d    k    w    o  
+  m    x    k    a  
+  e    i   'd'   j  
+  q   'p'  'e'   o  
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    3    0  
+  0    1    2    0  
+--------
+Word: oe
+Number of Words: 51
+  d    k    w    o  
+  m    x    k    a  
+  e    i    d    j  
+  q    p   'e'  'o' 
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    0    0  
+  0    0    2    1  
+--------
+Word: od
+Number of Words: 52
+  d    k    w    o  
+  m    x    k    a  
+  e    i   'd'   j  
+  q    p    e   'o' 
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    2    0  
+  0    0    0    1  
+--------
+Word: ode
+Number of Words: 53
+  d    k    w    o  
+  m    x    k    a  
+  e    i   'd'   j  
+  q    p   'e'  'o' 
+
+  0    0    0    0  
+  0    0    0    0  
+  0    0    2    0  
+  0    0    3    1  
+--------
